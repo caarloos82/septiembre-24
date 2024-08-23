@@ -1,4 +1,4 @@
-#programa 03 divisiones
+#programa 04 divisiones
 
 a = int(input("Escribe un número"))
 b = int(input("Escribe otro número"))
